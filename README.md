@@ -5,7 +5,7 @@ This is a very powerful script that I have created myself. It has been packaged 
 
 
 
-这是我自己制作的一个非常强大的脚本，已经使用nuitka打包成了exe，小白萌新都能使用，此脚本工具可以用来从游戏文件里面提取webp图片，可以从N尼尔机械纪元的wsp文件、wwise的pck和bnk文件里面提取wem文件，可以从索尼主机游戏里面提取at3和at9格式的音频，可以从微软xbox360游戏里面提取RIFX文件头的wem文件，可以从一些特殊的游戏里面提取微软的xma和xwma格式的音频，总之功能真的十分强大，我本人已经测试过。
+这是我自己制作的一个非常强大的脚本，已经使用nuitka打包成了exe，小白萌新都能使用，此脚本工具可以用来从游戏文件里面提取webp图片，可以从尼尔机械纪元的wsp文件、wwise的pck和bnk文件里面提取wem文件，可以从索尼主机游戏里面提取at3和at9格式的音频，可以从微软xbox360游戏里面提取RIFX文件头的wem文件，可以从一些特殊的游戏里面提取微软的xma和xwma格式的音频，总之功能真的十分强大，我本人已经测试过。
 
 
 
