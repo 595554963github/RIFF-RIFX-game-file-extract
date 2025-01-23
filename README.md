@@ -9,4 +9,8 @@ This is a very powerful script that I have created myself. It has been packaged 
 
 
 
+2025年1月24日凌晨1点追加c#代码，由pyton代码修改而成，虽然使用方法和python版本略有区别，但是最终功能是一样的，我已亲自测试。
+
+
+
 
